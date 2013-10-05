@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>test</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <script type="text/javascript" src = "/javascripts/jquery.js"></script>
+    <script type="text/javascript">
+        
+        var url = "http://localhost:3002/ajaxContests";
+   
+        $(document).ready(function(){
+                $.get(url, function(data, status){
+                    alert("index: " + data.index + "\nStatus: " + status);
+                });        
+            });
+
+    </script>   
+  </head>
+  <body>
+    11111
+  </body>
+</html>

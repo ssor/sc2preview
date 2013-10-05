@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <script type="text/javascript" src = "/javascripts/jquery.js"></script>
+
+    <script type="text/javascript">
+    //var url = "http://s.163.com/";
+    var url = "http://localhost:3002/ajaxContests";
+											
+    $(document).ready(function(){
+    	// var contests = JSON.parse(strContests.replace(/&quot;/g,"\""));
+    	$.get(url, function(contests, status){
+    		addContestsInfo(contests);
+	    	return;
+    	});
+	});
+
+	function addContestsInfo(contests){
+    	var body = $("body");
+    	var index = -1;
+    	for (var i = 0; i < contests.length; i++) {
+    		contest = contests[i];
+    		var nodeDay = $("<h1 class = \"contest\"></h1>").text(contest.day);
+    		var nodeContestTime = $("<h3 class = \"contest\"></h3>").text(contest.contest_time);
+    		var nodeContest = $("<h3 class = \"contest\"></h3>").text(contest.contest);
+    		if(contest.index == index){
+	    		body.append(nodeContestTime, nodeContest);
+    		}else{
+    			index = contest.index;
+    			body.append(nodeDay, nodeContestTime, nodeContest);
+    		}
+    	}		
+	}
+	function refreshContests(){
+	    var url2 = "http://localhost:3002/ajaxRefreshContests";
+	    $.get(url2, function(contests, status){
+    		$('.contest').remove();
+    		addContestsInfo(contests);
+	    	return;
+    	});
+	}
+    function parseInfo(htmlobj, textStatus){
+    	$("#myDiv").html(htmlobj.responseText);
+    }
+    </script>
+  </head>
+    <h1><%= title %></h1>
+  <body>
+
+  </body>
+  <button style="width:80px;height:25px;" onclick = "refreshContests()">刷新</button>
+</html>
