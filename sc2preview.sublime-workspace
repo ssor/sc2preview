@@ -1,0 +1,560 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"conte",
+				"contest"
+			],
+			[
+				"con",
+				"contest"
+			],
+			[
+				"req",
+				"requestContestFrom163"
+			],
+			[
+				"aj",
+				"ajaxContests"
+			],
+			[
+				"te",
+				"testajax"
+			],
+			[
+				"tes",
+				"testobj"
+			],
+			[
+				"nod",
+				"nodeContest"
+			],
+			[
+				"no",
+				"nodeContestTime"
+			],
+			[
+				"h",
+				"h2"
+			],
+			[
+				"cont",
+				"contest"
+			],
+			[
+				"ut",
+				"utf8Contest"
+			],
+			[
+				"en",
+				"encode"
+			],
+			[
+				"gb",
+				"gb2312"
+			],
+			[
+				"utf",
+				"utf-8"
+			],
+			[
+				"str",
+				"strContests"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"re",
+				"report"
+			],
+			[
+				"rep",
+				"reports"
+			],
+			[
+				"ga",
+				"gameList"
+			],
+			[
+				"po",
+				"posts"
+			],
+			[
+				"mod",
+				"models"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"pos",
+				"posts"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"tim",
+				"time"
+			],
+			[
+				"r",
+				"routes"
+			],
+			[
+				"che",
+				"checkLogin"
+			],
+			[
+				"er",
+				"error"
+			],
+			[
+				"s",
+				"session"
+			],
+			[
+				"p",
+				"password"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"lo",
+				"locals"
+			],
+			[
+				"suc",
+				"success"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"se",
+				"session"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"new",
+				"newUser"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"ja",
+				"javascripts"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "views/index.ejs",
+			"settings":
+			{
+				"buffer_size": 1647,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/index.js",
+			"settings":
+			{
+				"buffer_size": 4044,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/test.ejs",
+			"settings":
+			{
+				"buffer_size": 8419,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/testajax.ejs",
+			"settings":
+			{
+				"buffer_size": 639,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "code-temp.json",
+			"settings":
+			{
+				"buffer_size": 143,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 1055,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ssor/Documents/program/nodejs/microblog/routes/user.js",
+		"/Users/ssor/Documents/program/nodejs/microblog/node_modules/user.js",
+		"/Users/ssor/Documents/program/nodejs/microblog/views/head.ejs",
+		"/Users/ssor/Documents/program/nodejs/microblog/views/_index.ejs",
+		"/Users/ssor/Documents/program/nodejs/microblog/node_modules/db.js",
+		"/Users/ssor/Documents/program/nodejs/microblog/settings.js",
+		"/Users/ssor/Documents/program/nodejs/microblog/node_modules/ejs/examples/client.html",
+		"/Users/ssor/Documents/program/nodejs/microblog/views/layout.ejs",
+		"/Users/ssor/Documents/program/nodejs/package.json",
+		"/Users/ssor/Documents/program/nodejs/microblog/package.json",
+		"/Users/ssor/Documents/program/nodejs/microblog/views/index.jade",
+		"/Users/ssor/Documents/program/nodejs/microblog/app.js",
+		"/Users/ssor/Documents/program/nodejs/microblog/routes/index.js",
+		"/Users/ssor/Documents/program/nodejs/microblog/views/index.ejs"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ajaxRefreshContests",
+			"ajaxContests",
+			"ajaxRefreshContests",
+			"ajaxContests",
+			"res",
+			"两次输入的口令不一致",
+			"user"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "views/index.ejs",
+					"settings":
+					{
+						"buffer_size": 1647,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								159
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "routes/index.js",
+					"settings":
+					{
+						"buffer_size": 4044,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2553,
+								2572
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 689.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "views/test.ejs",
+					"settings":
+					{
+						"buffer_size": 8419,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								101,
+								101
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "views/testajax.ejs",
+					"settings":
+					{
+						"buffer_size": 639,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								592,
+								592
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "code-temp.json",
+					"settings":
+					{
+						"buffer_size": 143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								143,
+								143
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app.js",
+					"settings":
+					{
+						"buffer_size": 1055,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								823,
+								835
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/ssor/Documents/program/nodejs/sc2preview/views/index.ejs"
+			],
+			[
+				"he",
+				"/Users/ssor/Documents/program/nodejs/microblog/views/head.ejs"
+			],
+			[
+				"in",
+				"/Users/ssor/Documents/program/nodejs/microblog/routes/index.js"
+			],
+			[
+				"us",
+				"/Users/ssor/Documents/program/nodejs/microblog/node_modules/user.js"
+			],
+			[
+				"h",
+				"/Users/ssor/Documents/program/nodejs/microblog/views/head.ejs"
+			],
+			[
+				"p",
+				"/Users/ssor/Documents/program/nodejs/microblog/models/post.js"
+			],
+			[
+				"po",
+				"/Users/ssor/Documents/program/nodejs/microblog/models/post.js"
+			],
+			[
+				"i",
+				"/Users/ssor/Documents/program/nodejs/microblog/routes/index.js"
+			],
+			[
+				"s",
+				"/Users/ssor/Documents/program/nodejs/microblog/views/say.ejs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
